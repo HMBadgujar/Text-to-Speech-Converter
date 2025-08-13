@@ -1,12 +1,13 @@
+## VoiceWave - Text To Speech Converter
+
+<br>
+
 ---
 
 VoiceWave is a modern, easy-to-use web application that transforms written text into natural-sounding audio. It uniquely combines the browser's native **Web Speech API** for quick conversions with the premium, lifelike voices of the **Microsoft Azure Speech Service** for a superior listening experience.
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Sound Wave Animation" width="500">
-</div>
 
 ---
 
