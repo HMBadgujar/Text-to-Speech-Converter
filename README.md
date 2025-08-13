@@ -55,14 +55,10 @@ Getting started is as simple as 1-2-3:
 To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/voicewave-tts.git](https://github.com/your-username/voicewave-tts.git)
-    ```
+    
 
 2.  **Navigate to the project directory:**
-    ```bash
-    cd voicewave-tts
-    ```
+    
 
 3.  **Open `index.html` in your browser:**
     * You can simply double-click the `index.html` file or use a live server extension in your code editor (like VS Code's "Live Server") for the best experience.
